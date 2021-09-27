@@ -202,7 +202,7 @@ p {
   }
 
   .press-logo {
-    width: 20%;
+    width: 30%;
     margin: 10px 10px 40px;
   }
 
@@ -221,8 +221,17 @@ p {
   .colored-section .container-fluid {
     padding: 7% 15%;
   }
+
   .nav-link {
     font-size: 1.4rem;
+  }
+
+  .social-icon {
+    font-size: 1.3rem;
+  }
+
+  #pricing {
+    padding: 35px;
   }
 }
 
@@ -269,6 +278,7 @@ p {
   .colored-section .container-fluid {
     padding: 7% 15%;
   }
+
   .nav-link {
     font-size: 1.4rem;
   }
@@ -317,6 +327,7 @@ p {
   .colored-section .container-fluid {
     padding: 7% 15%;
   }
+  
   .nav-link {
     font-size: 1.4rem;
   }
